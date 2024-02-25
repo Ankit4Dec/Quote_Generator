@@ -1,0 +1,13 @@
+.landing-section {
+    background-color: #f4f4f4;
+    padding: 50px 0;
+}
+
+.row-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.quote-div{
+    background-color: #fff;
+}
